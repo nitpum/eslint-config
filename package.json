@@ -1,0 +1,10 @@
+{
+  "name": "@nitpum/eslint-config",
+  "version": "0.0.0",
+  "description": "Shared eslint config",
+  "main": "index.js",
+  "repository": "git@github.com:nitpum/eslint-config.git",
+  "author": "nitpum <nitpum@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
