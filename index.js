@@ -5,9 +5,9 @@ module.exports = {
       {
         patterns: [
           {
-            group: ["./*/**/*", "../**"],
+            group: ["./*/*", "../*"],
             message:
-              "Sub-folder and parent directory relative imports are not allowed. Use absolute imports or same-directory imports (./xxx) instead.",
+              "Sub-directory and parent directory relative imports are not allowed. Use absolute imports or same-directory imports (./xxx) instead.",
           },
         ],
       },
